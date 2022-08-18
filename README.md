@@ -13,7 +13,7 @@
 # 下载biyi图标依赖
     npm i biyi-icon --registry https://repo.ctbiyi.com/repository/npmall/
 #  引入组件
-    复制组件到components下并在APP组件下引入、注册，使用
+    在src文件夹下新建components文件夹，复制导出代码组件到components下并在APP组件下引入、注册，使用
 #  终端执行 
     安装依赖：npm i 
     执行：npm run serve
